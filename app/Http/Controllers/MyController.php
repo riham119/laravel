@@ -9,7 +9,7 @@ class MyController extends Controller
 {
  public Function logout(){
     @auth()->logout();
-    return redirect('/');
+    return redirect('/home');
  }
 
    public Function register(Request $requist){
