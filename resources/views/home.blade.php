@@ -47,6 +47,8 @@
         <button type="submit" class="btn btn-primary w-100">Register</button>
       </form>
     </div>
+
+    
     @endauth
 
     <!-- Bootstrap JS -->
